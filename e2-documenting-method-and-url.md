@@ -1,5 +1,5 @@
 # Exercise 2: documenting method and URL
-## Retrieve an Album
+## Retrieve an album
 Returns data about the specified collection of images:  
 `GET https://phantasticfoto.com/api/v1/album/{album ID}`  
 * Where `{album ID}` is the ID of the album to retrieve.
