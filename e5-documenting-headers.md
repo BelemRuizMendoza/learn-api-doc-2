@@ -1,7 +1,8 @@
 |Header name|Description|Required|Values|
 |:----------|:----------|:------:|:-----|
 |`Content-Type`|Specifies the format of the photo to be uploaded.|optional|**Valid values:** image/jpeg, image/png, and image/gif. **Default:** image/jpeg.|
-|`Accept`|Specifies the format of the data to be returned.|optional|**Valid values:** application/json and application/xml. **Default:** application/json.|
+|`Accept`|Specifies the format of the data to be returned.|optional|**Valid values:** application/json and application/xml. **Default:** application/json.|  
+
 <br>
 
 ## Sample request

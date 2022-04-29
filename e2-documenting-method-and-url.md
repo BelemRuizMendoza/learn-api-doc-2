@@ -18,17 +18,16 @@ Eliminates the specified collection of images:
 `DELETE https://phantasticfoto.com/api/v1/album/{album ID}`  
 * Where `{album ID}` is the ID of the album to delete.
 
-## Retrieve a list of aAll the albums
+## Retrieve a list of all the albums
 Returns a list of all the currently available albums:  
 `GET https://phantasticfoto.com/api/v1/album/`  
 
 ## Print an album
 Prints the specified collection of images:  
 `POST https://phantasticfoto.com/api/v1/album/{album ID}/print`  
-* Where `{album ID}` is the ID of the album to print.  
+* Where `{album ID}` is the ID of the album to print.
 
 <br><br><br>
-
 ***
 Exercise 2 from this [course].  
 
