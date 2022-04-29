@@ -104,6 +104,7 @@ The following table describes the HTTP status codes supported by this API.
 |`200`|OK|The sound file was successfully added.|
 |`401`|Unauthorized|The **access token** is invalid.|
 |`413`|Request Entity Too Large|The uploaded sound file is longer than 5 minutes.|
+
 <br><br><br>
 ***
 Exercise 7 from this [course].
