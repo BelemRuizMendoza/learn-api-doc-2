@@ -47,7 +47,7 @@ Retrieves a list of URLs and lenghts of the audio files uploaded to the specifie
 ## URL
 GET https://api.sounddate.com/user/{user-id}/profile/sound  
   
-Where `{user id}` is the ID of the user whose profile contains the sound files.
+* Where `{user id}` is the ID of the user whose profile contains the sound files.
 
 ## Query parameters
 |Parameter|Values|Description|Type|Required|Notes|

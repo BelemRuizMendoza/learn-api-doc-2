@@ -8,7 +8,7 @@
 This request uploads a photo in GIF format and the return data is in JSON.
 <br><br>
 
-```curl
+```
 POST https://phantasticFoto.com/api/v1/photo  
 
 Content-Type: image/gif
